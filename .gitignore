@@ -1,0 +1,24 @@
+# Interview / personal reference material — never push this
+private_reference/
+
+# Company assessment brief — internal content, not this project's own work product
+YellowSense Technologies_Asssignment.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Large local test captures (uncomment if you don't want raw photos on GitHub)
+# test_images/**/*.jpg
+# test_images/**/*.jpeg
+# test_images/**/*.png
